@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+#welcome {
+    background-color: aquamarine;
+    font-family: sans-serif
+}
+
+#bio {
+    background-color: chartreuse;
+    font-family: serif;
+    margin-left: inherit;
+    margin-right: inherit;
+}
+
+#firstP {
+    font-size: 25px
+}
